@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landlove)](https://github.com/landlove/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landlove)](https://github.com/landlove/Saleplan)
